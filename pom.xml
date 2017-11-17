@@ -6,7 +6,7 @@
   <groupId>uk.co.ticklethepanda</groupId>
   <artifactId>spring-jwt-authentication-filter</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
   <description>An library containing the components to decode and
